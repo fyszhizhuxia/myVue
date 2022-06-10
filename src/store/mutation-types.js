@@ -1,0 +1,1 @@
+export const ADD_MUTATION = '对数字进行加法运算';
